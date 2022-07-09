@@ -1,0 +1,11 @@
+{
+    "name": "hamzahamid/crawling",
+    "description": "A small package for crawlling.",
+    "autoload": {
+        "psr-4": {
+            "HamzaHamid\\Crawling\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
